@@ -1,8 +1,8 @@
-# React + Vite
+You can see a more complete explanation and preview of this project in my article: https://medium.com/@fazmi322/build-an-openai-article-summarizer-using-rapid-api-with-react-tailwind-css-and-redux-bf0bdfec84dd
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+The appearance of this website is as follows:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+![OpenAIPNG](https://github.com/MuhammadFahrulazmi322/OpenAISummarize/assets/71545391/d274269a-04cd-420f-b38d-7e9bdbfdadc4)
+
